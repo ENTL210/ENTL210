@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Edward 🇻🇳 🇺🇸!
-👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👨🏻‍💻 Software Engineer<br/>
 🎓 Planning to study Computer Science at the Oregon State University, Oregon<br/>
-🌱 I’m currently learning full-stack development and machine learning and <br/>
+🌱 I’m currently learning full-stack development and machine learning. <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=ENTL210&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
