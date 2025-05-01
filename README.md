@@ -25,7 +25,15 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ENTL210&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📫 Best Ways to Connect:
+# 🚧 Here Are Some Ongoing Projects
+* 💻 [**MicroPyCon**](https://github.com/ENTL210/MicroPyCon)
+  * A simplified version of an IDE, aiming to help students & beginners learn how to program micro-computing units.
+* 👨🏻‍💻 [**ENTL210.github.io**](https://github.com/ENTL210/ENTL210.github.io)
+  * My minimalistic portfolio showcases all the projects I have worked on and developed using ReactJS.
+ 
+![](https://github-contributor-stats.vercel.app/api?username=entl210&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# 📫 Best Ways to Connect
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edwardlamhitech@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edward-lam-069163308) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edlam210) 
