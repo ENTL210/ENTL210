@@ -28,7 +28,7 @@
 # 🚧 Here Are Some Ongoing Projects
 * 💻 [**MicroPyCon**](https://github.com/ENTL210/MicroPyCon)
   * A simplified version of an IDE, aiming to help students & beginners learn how to program micro-computing units.
-* 👨🏻‍💻 [**ENTL210.github.io**](https://github.com/ENTL210/ENTL210.github.io)
+* 🐷 [**ENTL210.github.io**](https://github.com/ENTL210/ENTL210.github.io)
   * My minimalistic portfolio showcases all the projects I have worked on and developed using ReactJS.
  
 ![](https://github-contributor-stats.vercel.app/api?username=entl210&limit=5&theme=dark&combine_all_yearly_contributions=true)
